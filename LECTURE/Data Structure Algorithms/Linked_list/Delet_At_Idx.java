@@ -107,6 +107,5 @@ public class Delet_At_Idx {
         System.out.println("Link list after deleting the element : ");
         ll.Delet_At_Idx(4);
         ll.display();
-    }
-    
+    }    
 }

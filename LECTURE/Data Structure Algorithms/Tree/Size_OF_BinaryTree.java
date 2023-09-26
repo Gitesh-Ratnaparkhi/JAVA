@@ -1,4 +1,3 @@
-package Tree;
 public class Size_OF_BinaryTree{
     public static class node{
         int val;

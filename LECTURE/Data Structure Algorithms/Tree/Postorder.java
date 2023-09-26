@@ -1,4 +1,4 @@
-package Tree;
+
 public class Postorder {
     public static class Node{
         int val;

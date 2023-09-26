@@ -1,4 +1,3 @@
-package Tree;
 public class Level_order {
     public static class Node{
         int val;

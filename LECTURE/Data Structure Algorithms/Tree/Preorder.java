@@ -1,4 +1,4 @@
-package Tree;
+
 public class Preorder {
     // creating node 
     public static class Node{

@@ -1,4 +1,4 @@
-package Tree;
+
 public class Sum_OF_BinaryTree{
     public static class node{
         int val ;

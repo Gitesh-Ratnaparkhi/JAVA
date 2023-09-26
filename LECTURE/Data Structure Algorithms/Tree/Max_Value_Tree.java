@@ -1,4 +1,4 @@
-package Tree;
+
 public class Max_Value_Tree {
     public static class node{
         int val;

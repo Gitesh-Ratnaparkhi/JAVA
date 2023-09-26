@@ -1,4 +1,3 @@
-package Tree;
 
 // Height of the binary tree 
 public class Hight_Of_binaryTree{
